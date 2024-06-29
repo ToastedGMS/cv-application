@@ -18,4 +18,6 @@ I also took the liberty of adding some personal choices of API's to get this run
 - React Hook Form (no longer used)
 - Date FNS
 
-(I decided to remove React Hook Form because the whole project took a change of approach; Originally you had a screen with input fields that would get submitted and then the Resume would be rendered. For that I needed a way to store and manipulate the form data and RHF provided an interesting approach to this problem. However when I decided to have both the Resume and the Application Form rendered at the same time, I realized it wouldn't be necessary to submit the form, therefore there was no point in maintaining the API:D )
+(I decided to remove React Hook Form because the whole project took a change of approach; Originally you had a screen with input fields that would get submitted and then the Resume would be rendered. For that I needed a way to store and manipulate the form data and RHF provided an interesting approach to this problem. However when I decided to have both the Resume and the Application Form rendered at the same time, I realized it wouldn't be necessary to submit the form, therefore there was no point in maintaining the API :D )
+
+You can visit a live preview of this website here: https://guileless-marshmallow-e8d501.netlify.app/
